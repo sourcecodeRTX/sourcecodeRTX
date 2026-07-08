@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd Year CSE student passionate about real-world projects, UI/UX, and web development with hands-on knowledge of HTML, CSS, JavaScript, Java, and Python.
+3rd-year Computer Science Engineering (CSE) student passionate about building real-world projects, crafting intuitive UI/UX, and developing modern web applications. Skilled in HTML, CSS, JavaScript, Java, and Python, with a strong focus on practical problem-solving and continuous learning.
 
 
 ## 🌐 Socials:
